@@ -9,7 +9,7 @@ z2
 cModel Technology
 Z0 de:/peixun_24/first/END_FPGA/rtl
 vAD9226
-!s110 1713681460
+!s110 1713682061
 !i10b 1
 !s100 C^QPFobDUW<N9kUGCCRDH2
 IYV[:k5[O=42[Nezamfj:I0
@@ -23,7 +23,7 @@ Z2 OL;L;10.5;63
 r1
 !s85 0
 31
-!s108 1713681460.000000
+!s108 1713682061.000000
 !s107 e:\peixun_24\first\END_FPGA\rtl\AD9226.v|
 !s90 -nologo|-work|work|e:\peixun_24\first\END_FPGA\rtl\AD9226.v|
 !i113 0
@@ -52,7 +52,7 @@ r1
 R3
 R4
 vfir_ctrl
-!s110 1713679204
+!s110 1713682075
 !i10b 1
 !s100 dVH[DlWbAloBZiT7`:zBJ1
 I0n;[j3YdEBZYedcF_:Ql;0
@@ -66,7 +66,7 @@ R2
 r1
 !s85 0
 31
-!s108 1713679204.000000
+!s108 1713682075.000000
 !s107 e:\peixun_24\first\END_FPGA\rtl\fir.v|
 !s90 -nologo|-work|work|e:\peixun_24\first\END_FPGA\rtl\fir.v|
 !i113 0
@@ -115,7 +115,7 @@ r1
 R3
 R4
 vtop
-!s110 1713680684
+!s110 1713682067
 !i10b 1
 !s100 ^X;8kEjjSe<?NkP>=8]K83
 I91^n:j]oGX0U@EL5eaUIo3
@@ -129,20 +129,20 @@ R2
 r1
 !s85 0
 31
-!s108 1713680684.000000
+!s108 1713682067.000000
 !s107 e:\peixun_24\first\END_FPGA\rtl\top.v|
 !s90 -nologo|-work|work|e:\peixun_24\first\END_FPGA\rtl\top.v|
 !i113 0
 R3
 R4
 vuart_tx
-!s110 1713681403
+!s110 1713682108
 !i10b 1
 !s100 15K=oM0`MCC5Bi;4?H0XU2
 Ia6mPEX;?YCRD_fznTMQ2k2
 R1
 R0
-w1713681215
+w1713682084
 8e:\peixun_24\first\END_FPGA\rtl\uart_tx.v
 Fe:\peixun_24\first\END_FPGA\rtl\uart_tx.v
 L0 1
@@ -150,7 +150,7 @@ R2
 r1
 !s85 0
 31
-!s108 1713681402.000000
+!s108 1713682108.000000
 !s107 e:\peixun_24\first\END_FPGA\rtl\uart_tx.v|
 !s90 -nologo|-work|work|e:\peixun_24\first\END_FPGA\rtl\uart_tx.v|
 !i113 0
