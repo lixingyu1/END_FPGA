@@ -6,7 +6,7 @@ module ferq (
     output reg   [18:0]     freq          
 );
 
-
+reg ceshi;
 
 parameter CLK_FREQ = 25_000_000;
 
